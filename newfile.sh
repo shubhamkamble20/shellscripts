@@ -6,3 +6,6 @@ AWS
 AWS
 Azure
 Azure
+GCP
+GCP
+
