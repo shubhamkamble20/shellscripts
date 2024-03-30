@@ -1,11 +1,7 @@
-shubham kamble
-Devops
-Devops
-AWS
-AWS
+shubham 
 AWS
 Azure
-Azure
 GCP
-GCP
-
+Devops
+Jenkins
+Lambda
